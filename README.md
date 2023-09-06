@@ -1,6 +1,10 @@
 # Swiggy_Dataset_Analyis
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/a277a176-dffc-4618-8dcc-df290692e897)
 
+# Tools & Technologies used
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/12a5bec7-2f10-412a-b4bd-75936194d6cb)
+
+
 # Detailed Summary
 Swiggy API Analysis is a powerful tool for food enthusiasts seeking the best culinary experiences in metropolitan cities like Bangalore, Mumbai, Delhi, and Hyderabad, Pune, Kolkata, Chennai, Surat and Ahmedabad. By identifying value-for-money restaurants in each city, Swiggy API empowers users to savor delightful dishes without compromising on quality. Furthermore, this analysis uncovers the top cuisines available in each metropolitan city, enabling users to discover the most sought-after culinary delights in the region. Whether one craves local delicacies or exotic international flavors, Swiggy API analysis guides foodies to the perfect dining spots, considering the preferences of each city's diverse population. With a focus on catering to the needs of every food lover, Swiggy API analysis unveils the richness of culinary offerings in each metropolitan city and provides a delightful journey of taste exploration.
 
