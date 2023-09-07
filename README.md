@@ -12,6 +12,25 @@ Swiggy API Analysis is a powerful tool for food enthusiasts seeking the best cul
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/125f0010-9d49-4dd1-bbd1-3719940544c6)
 
 # User's Manual
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/809f8744-aaa2-454e-b083-65ed6cbc21f4)
+
+# Data Snapshots(few code snippets)
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/e6f3db52-44ac-45aa-9008-788d16f18735)
+------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/b490b6ab-b63e-4360-8dc0-e93ba3caf0b3)
+
+
+# Aggregation on Different KPI’s
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/03c1a28d-f8d7-4b84-9001-ce95f40b52b1)
+-------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/fb0472dd-58de-46b0-ae10-4535516e73e3)
+
+-------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/874414f5-fd66-46f9-87ce-b3bb01c3c8f2)
+
+-------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/725967c6-4312-4193-850b-f430f80e8406)
 
 # Import All Necessary Libraries of Python
 import numpy as np
