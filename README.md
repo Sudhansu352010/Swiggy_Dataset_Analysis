@@ -33,19 +33,9 @@ To check the Co-relationship between different Variables to each other. By analy
 
 -------------------------------------------------------------------------------------------------------------------------
 # Count the occurrences of each food type among all restaurants.Select the top 5 food types.Pie chart for top 5 Restaurants by food types
-food_type_counts=df['Food type'].str.split(',', expand=True).stack().value_counts()
 
-top_5_food_types=food_type_counts.head(5)
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/74c914b0-9272-4aec-9f05-ed1f9f7a5c7a)
 
-plt.figure(figsize=(8,6))
-
-plt.pie(top_5_food_types, labels=top_5_food_types.index, autopct='%1.1f%%', startangle=140)
-
-plt.axis('equal')
-
-plt.title('Top 5 Food Types among Restaurants')
-
-plt.show()
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/725967c6-4312-4193-850b-f430f80e8406)
 
 
