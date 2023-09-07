@@ -25,7 +25,8 @@ Swiggy API Analysis is a powerful tool for food enthusiasts seeking the best cul
 To check the Co-relationship between different Variables to each other. By analyzing the heatmap, we can learn about the strength and direction of these correlations, identifying which variables are highly related to each other. Heatmaps also help in identifying important features and detecting multicollinearity, which can impact model performance and interpretation.
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/03c1a28d-f8d7-4b84-9001-ce95f40b52b1)
 -------------------------------------------------------------------------------------------------------------------------
-
+# Distribution of Average Price in Different Cities
+![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/97fdfbec-a32d-47a7-86ac-90d7387dfc7f)
 
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/fb0472dd-58de-46b0-ae10-4535516e73e3)
 
