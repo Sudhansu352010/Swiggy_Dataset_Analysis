@@ -30,6 +30,16 @@ Swiggy API Analysis is a powerful tool for food enthusiasts seeking the best cul
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/874414f5-fd66-46f9-87ce-b3bb01c3c8f2)
 
 -------------------------------------------------------------------------------------------------------------------------
+# Count the occurrences of each food type among all restaurants
+food_type_counts=df['Food type'].str.split(',', expand=True).stack().value_counts()
+# Select the top 5 food types
+top_5_food_types=food_type_counts.head(5)
+# Pie chart for top 5 Restaurants by food types
+plt.figure(figsize=(8,6))
+plt.pie(top_5_food_types, labels=top_5_food_types.index, autopct='%1.1f%%', startangle=140)
+plt.axis('equal')
+plt.title('Top 5 Food Types among Restaurants')
+plt.show()
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/725967c6-4312-4193-850b-f430f80e8406)
 
 # Import All Necessary Libraries of Python
