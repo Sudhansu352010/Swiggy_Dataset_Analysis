@@ -22,6 +22,7 @@ Swiggy API Analysis is a powerful tool for food enthusiasts seeking the best cul
 
 
 # Aggregation on Different KPI’s
+To check the Co-relationship between different Variables to each other. By analyzing the heatmap, we can learn about the strength and direction of these correlations, identifying which variables are highly related to each other. Heatmaps also help in identifying important features and detecting multicollinearity, which can impact model performance and interpretation.
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/03c1a28d-f8d7-4b84-9001-ce95f40b52b1)
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -33,11 +34,17 @@ Swiggy API Analysis is a powerful tool for food enthusiasts seeking the best cul
 -------------------------------------------------------------------------------------------------------------------------
 # Count the occurrences of each food type among all restaurants.Select the top 5 food types.Pie chart for top 5 Restaurants by food types
 food_type_counts=df['Food type'].str.split(',', expand=True).stack().value_counts()
+
 top_5_food_types=food_type_counts.head(5)
+
 plt.figure(figsize=(8,6))
+
 plt.pie(top_5_food_types, labels=top_5_food_types.index, autopct='%1.1f%%', startangle=140)
+
 plt.axis('equal')
+
 plt.title('Top 5 Food Types among Restaurants')
+
 plt.show()
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/725967c6-4312-4193-850b-f430f80e8406)
 
