@@ -49,3 +49,12 @@ To check the Co-relationship between different Variables to each other. By analy
 ![image](https://github.com/Sudhansu352010/Swiggy_Dataset_Analysis/assets/131376814/725967c6-4312-4193-850b-f430f80e8406)
 
 
+# Conclusion
+1.	In particular, the Rohini area in Delhi has the highest recorded delivery time (11466), while the Lake Town area in Kolkata has the lowest (5398) delivery time. This indicates potential variations in delivery efficiency across different areas, with Rohini experiencing longer delivery times than Lake Town.
+2.	The most popular cuisine was Indian, followed by Chinese, while the least popular was South Indian.
+3.	Mumbai has the highest price (393.79) of food item, while Surat has the lowest price (270.17) among the listed cities. This indicates significant price variations across different cities, which may be influenced by factors such as cost of living, demand, and local economic conditions.
+4. Biryani has taken the most orders among all the restaurants.
+5.	Particularly, tribal, seafood, Chinese, Turkish, Mediterranean, Middle Eastern, Lebanese, and Arabian food types have the highest cost.
+6.	Most of the restaurants in Delhi and Bengaluru have an average rating above 4.5.
+7.	The average cost of food items falls between 200 and 300 rupees.
+8.	Chinese cuisine dominates the market among all restaurants, accounting for approximately 27.7% of the market share, followed by North Indian cuisine, while the lowest market share belongs to beverages.  
